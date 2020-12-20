@@ -1,0 +1,2 @@
+# cppegitim
+eğitim 
